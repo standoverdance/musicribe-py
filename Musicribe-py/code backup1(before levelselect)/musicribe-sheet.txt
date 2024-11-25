@@ -1,0 +1,16 @@
+Things to do:
+- falling box speed change logic.
+- main menu
+
+1. Finish screen with score and buttons. :) wok wok wok
+2. background image  || It's done as well <3
+4. Osu file converter
+3. main menu 
+    6. map selector
+    5. Dynamic file loading
+7. sound visualizer
+8. lettertype button feature
+9. map editor
+10. falling box speed change logic.
+11. Modifiers menu
+12. Long Notes
