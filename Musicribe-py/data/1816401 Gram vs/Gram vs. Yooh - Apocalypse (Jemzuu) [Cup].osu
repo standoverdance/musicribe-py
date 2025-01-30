@@ -37,6 +37,7 @@ OverallDifficulty:6.5
 ApproachRate:6.5
 SliderMultiplier:1.15
 SliderTickRate:0.5
+TurnOffSliders:1
 
 [Events]
 //Background and Video events

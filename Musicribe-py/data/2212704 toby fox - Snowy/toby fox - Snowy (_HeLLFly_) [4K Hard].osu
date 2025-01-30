@@ -38,6 +38,7 @@ OverallDifficulty:7.5
 ApproachRate:5
 SliderMultiplier:1.4
 SliderTickRate:1
+TurnOffSliders:1
 
 [Events]
 //Background and Video events
@@ -255,4 +256,4 @@ SliderTickRate:1
 320,192,97886,128,0,98378:2:0:1:50:
 448,192,98378,128,0,102313:2:0:1:50:
 [Text]
-Snow drapes the world in a blanket of silence, transforming familiar landscapes into frosted wonderlands. Flakes drift softly, sparkling under winter's pale sunlight, bringing calm and beauty.  Snow
+Snow drapes the world in a blanket of silence, transforming familiar landscapes into frosted wonderlands. Flakes drift softly, sparkling under winter's pale sunlight, bringing calm and beauty.  Snow
